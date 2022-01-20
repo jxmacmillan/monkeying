@@ -1,3 +1,5 @@
 hello world!
 hola mundo!
 salve mundi!
+ciao mondo!
+hallo welt!
